@@ -1,1 +1,1 @@
-# Challenge-1---Inna-Mamedova
+# Challenge-1-Inna-Mamedova
