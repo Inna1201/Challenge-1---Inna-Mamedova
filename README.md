@@ -14,6 +14,7 @@ I have added a description of commands in css file to make it easier to understa
 I have created a readme file to summarizes the purpose of this project.
 
 # Screenshot
-"./assets/images/screenshot.png"
+![Preview image](./assets/images/screenshot.png)
 
 # Link
+![Web page](https://inna1201.github.io/Challenge-1---Inna-Mamedova/)
