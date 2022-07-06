@@ -8,10 +8,10 @@ As part of codding bootcamp program I will complete weekly challenges. This is t
 To meet the acceptance criteria I need to amend provided html and css files according accessibility standards.
 
 # Description
-I have structured html file using semantic elements to make it easily readable.
-In css file I have used sector grouping and changed the sequence of commands to make css file more readable.
+I have structurised html file using semantic elements to make it more readable.
+In css file I have used sector grouping and changed the sequence of commands to make css file easier to follow through.
 I have added a description of commands in css file to make it easier to understand.
-I have created a readme file to summarizes the purpose of this project.
+I have created a readme file to summarizes my actions and the purpose of this project.
 
 # Screenshot
 ![Preview image](./assets/images/screenshot.png)
